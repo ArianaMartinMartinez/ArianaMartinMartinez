@@ -1,16 +1,16 @@
-## Hi there 👋
+BANNER
+---
 
-<!--
-**ArianaMartinMartinez/ArianaMartinMartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have always been interested in computers, so I decided to study web development. I am always ready to acquire new knowledge and face new challenges. So far I have learned:
 
-Here are some ideas to get you started:
+Front-end -> HTML5, JavaScript, TypeScript, Angular (16+)
+Back-end -> PHP, Laravel (9+), Java, Spring Boot(2+)
+Database -> MySQL, SQL Server
+E2E testing -> Cypress
+Design -> CSS3, Bootstrap (4-5), Material, Tailwind
+Tools -> Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact me
+
+- My Mail: arianamartinmartinez@gmail.com
+- My Linkedin: <a href="https://www.linkedin.com/in/ariana-martin-martinez/">Ariana Martín Martínez</a>
