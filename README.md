@@ -1,4 +1,4 @@
-BANNER
+![banner](https://github.com/user-attachments/assets/753ccf08-87a6-4c54-9de4-555980313b04)
 ---
 
 I have always been interested in computers, so I decided to study web development. I am always ready to acquire new knowledge and face new challenges. So far I have learned:
