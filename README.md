@@ -4,7 +4,7 @@
 
 ## About Me
 
-I have always been interested in computers, so I decided to study web development. I am always ready to acquire new knowledge and face new challenges.
+I have always been interested in computers, so I decided to study web development. I am a hard-working, responsible person and I am always willing to acquire new knowledge. I can learn quickly about any field.
 
 ## Current Stack
 ### Front-end
@@ -19,12 +19,14 @@ I have always been interested in computers, so I decided to study web developmen
 
 <a href='' target="_blank"><img alt='PHP' src='https://img.shields.io/badge/PHP-100000?style=for-the-badge&logo=PHP&logoColor=white&labelColor=777BB4&color=777BB4'/></a>
 <a href='' target="_blank"><img alt='Laravel' src='https://img.shields.io/badge/Laravel-100000?style=for-the-badge&logo=Laravel&logoColor=white&labelColor=FF2D20&color=FF2D20'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Java' src='https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=Java&logoColor=white&labelColor=black&color=black'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Spring' src='https://img.shields.io/badge/Spring_Boot-100000?style=for-the-badge&logo=Spring&logoColor=white&labelColor=6DB33F&color=6DB33F'/></a>
+
+Learning:<br>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='.NET' src='https://img.shields.io/badge/.NET-100000?style=for-the-badge&logo=.NET&logoColor=white&labelColor=512BD4&color=512BD4'/></a>
 
 ### Database
 
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='MySQL' src='https://img.shields.io/badge/MySQL-100000?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=4479A1&color=4479A1'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='PostgreSQL' src='https://img.shields.io/badge/PostgreSQL-100000?style=for-the-badge&logo=PostgreSQL&logoColor=white&labelColor=4169E1&color=4169E1'/></a>
 
 ### E2E Testing
 
@@ -33,17 +35,19 @@ I have always been interested in computers, so I decided to study web developmen
 ### Design
 
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Bootstrap' src='https://img.shields.io/badge/Bootstrap-100000?style=for-the-badge&logo=Bootstrap&logoColor=white&labelColor=7952B3&color=7952B3'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Material Design' src='https://img.shields.io/badge/Material_Design-100000?style=for-the-badge&logo=Material Design&logoColor=white&labelColor=757575&color=757575'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Tailwind css' src='https://img.shields.io/badge/Tailwind-100000?style=for-the-badge&logo=Tailwind css&logoColor=white&labelColor=06B6D4&color=06B6D4'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='' src='https://img.shields.io/badge/Angular_Material-100000?style=for-the-badge&logo=&logoColor=white&labelColor=000000&color=000000'/></a>
 
 ### Tools
 <a href='https://github.com/ArianaMartinMartinez' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Jira' src='https://img.shields.io/badge/Jira-100000?style=for-the-badge&logo=Jira&logoColor=white&labelColor=0052CC&color=0052CC'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Postman' src='https://img.shields.io/badge/Postman-100000?style=for-the-badge&logo=Postman&logoColor=white&labelColor=FF6C37&color=FF6C37'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Figma' src='https://img.shields.io/badge/Figma-100000?style=for-the-badge&logo=Figma&logoColor=white&labelColor=F24E1E&color=F24E1E'/></a>
+
+Learning: <br>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Swagger' src='https://img.shields.io/badge/Swagger-100000?style=for-the-badge&logo=Swagger&logoColor=white&labelColor=85EA2D&color=85EA2D'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='' src='https://img.shields.io/badge/Azure_Devops-100000?style=for-the-badge&logo=&logoColor=white&labelColor=008AD7&color=008AD7'/></a>
 
 ## Contact me
 
-- My Mail: arianamartinmartinez@gmail.com
+- My Email: arianamartinmartinez@gmail.com
 - My Linkedin: <a href="https://www.linkedin.com/in/ariana-martin-martinez/">Ariana Martín Martínez</a>
-
-## Github Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArianaMartinMartinez&theme=dracula&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
